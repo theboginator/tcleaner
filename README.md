@@ -1,5 +1,6 @@
 # tcleaner
 (c) 2018 Jacob Bogner
+
 This project is a complete cleaning assistant for the Taylor Company C602/C606 combination shake/soft serve freezers, also potentially applicable to the C716/C717 soft serve freezers. Project has 2 categories, hardware and software.
 Hardware:
 A) The primary feature is a multi-use water distribution and waste management apparatus. Mounted on casters to ensure portability. Requires 1 supply, 1 drain, and 1 AC 120V connection. Features include
